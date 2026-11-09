@@ -28,3 +28,12 @@ body {
     color: black;
     padding: 100px;
 }
+
+.lasagna {
+    text-align: center;
+    display: block;
+    font-size: 40px;
+    background-color: rgb(70, 148, 179);
+    color: black;
+    padding: 100px;
+}
