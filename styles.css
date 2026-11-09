@@ -100,3 +100,13 @@ body {
     border: 5px solid white;
     padding: 7px;
 }
+
+.home-link {
+    background-color: black;
+    display: block;
+    padding: 10px;
+    padding-left: 30px;
+    color: white;
+}
+
+rgb(110, 106, 106)
