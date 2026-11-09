@@ -49,10 +49,28 @@ body {
 .lasagna {
     text-align: center;
     display: block;
-    font-size: 40px;
-    background-color: rgb(70, 148, 179);
-    color: black;
-    padding: 110px;
+    background-color: skyblue;
+    padding: 0px;
+    line-height: 250px;
+    background-image: url("images/lasagna.jpg");
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: repeat;
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    height: 270px;
+    font-size: 90px;
+    border: 10px solid rgb(190, 180, 180);
+    border-top: 0px;
+}
+
+.lasagna span {
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+    border: 5px solid white;
+    padding: 7px;
 }
 
 .quesadilla {
