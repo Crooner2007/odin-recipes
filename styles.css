@@ -129,4 +129,40 @@ hr {
     background-color: black;
     color: rgb(235, 234, 227);
 }
+
+.taco-image {
+    padding-left: 30px;
+    float: left
+}
+
+.taco-description-header {
+    display: block;
+    
+    
+}
+
+.taco-description-1 {
+    display: block;
+}
+
+.taco-description-2{
+    display: block;
+}
+
+.taco-ingredients {
+    display: block;
+    clear: left;
+}
+
+.ingredients {
+    display: block;
+}
+
+.taco-steps {
+    display: block;
+}
+
+.steps {
+    display: block;
+}
 /* rgb(110, 106, 106) is a color value to remember as the dark gray */
