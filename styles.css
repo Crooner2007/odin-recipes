@@ -76,8 +76,26 @@ body {
 .quesadilla {
     text-align: center;
     display: block;
-    font-size: 40px;
-    background-color: rgb(40, 89, 109);
-    color: black;
-    padding: 110px;
+    background-color: skyblue;
+    padding: 0px;
+    line-height: 250px;
+    background-image: url("images/quesadillas.jpg");
+    background-size: auto 100%;
+    background-position: center;
+    background-repeat: repeat;
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    height: 270px;
+    font-size: 90px;
+    border: 10px solid rgb(190, 180, 180);
+    border-top: 0px;
+}
+
+.quesadilla span{
+     display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+    border: 5px solid white;
+    padding: 7px;
 }
