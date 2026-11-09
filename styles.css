@@ -19,3 +19,12 @@ body {
     padding-bottom: 20px;
     margin: 0;
 }
+
+.taco-salad {
+    text-align: center;
+    display: block;
+    font-size: 40px;
+    background-color: skyblue;
+    color: black;
+    padding: 100px;
+}
