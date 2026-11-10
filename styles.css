@@ -4,6 +4,10 @@ body {
     margin: 0;
 }
 
+body {
+    padding-bottom: 60px;
+}
+
 *,
 *::before,
 *::after {
@@ -109,9 +113,11 @@ body {
     color: white;
 }
 
-hr {
+.hr1 {
     color: white;
     margin: 0px;
+    border: none;
+    border-top: 3px solid white;
 }
 
 .taco-header {
@@ -165,20 +171,32 @@ hr {
     font-family: "Lucida Handwriting", cursive;
 }
 
-.taco-ingredients {
-    display: block;
+.hr2 {
     clear: left;
+    margin-top: 170px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 50px;
+    color: white;
+    border: none;
+    border-top: 5px solid white;
+    
 }
 
-.ingredients {
-    display: block;
-}
-
+.taco-ingredients,
 .taco-steps {
+    margin-left: 20px;
     display: block;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    font-size: 60px;
 }
 
+.ingredients,
 .steps {
+    margin-left: 30px;
     display: block;
+    font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+    font-size: 20px;
 }
+
 /* rgb(110, 106, 106) is a color value to remember as the dark gray */
