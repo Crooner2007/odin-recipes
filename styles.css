@@ -148,9 +148,11 @@ body {
     margin: 0px;
     margin-left: 500px;
     padding-top: 30px;
-    padding-bottom: 20px;
-    
-    
+    padding-bottom: 20px;   
+}
+
+.lasagna-description-header {
+    margin-left: 550px;
 }
 
 .taco-description-1 {
@@ -169,6 +171,10 @@ body {
     margin-left: 600px;
     font-size: 30px;
     font-family: "Lucida Handwriting", cursive;
+}
+
+.lasagna-description-2 {
+    padding-right: 30px;
 }
 
 .hr2 {
@@ -198,7 +204,3 @@ body {
     font-family: "Lucida Handwriting", "Brush Script MT", cursive;
     font-size: 20px;
 }
-
-
-
-/* rgb(110, 106, 106) is a color value to remember as the dark gray */
