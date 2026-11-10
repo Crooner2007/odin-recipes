@@ -137,16 +137,32 @@ hr {
 
 .taco-description-header {
     display: block;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    font-size: 100px;
+    margin: 0px;
+    margin-left: 500px;
+    padding-top: 30px;
+    padding-bottom: 20px;
     
     
 }
 
 .taco-description-1 {
     display: block;
+    margin: 0px;
+    margin-left: 550px;
+    font-size: 30px;
+    padding-bottom: 30px;
+    padding-right: 40px;
+    font-family: "Lucida Handwriting", cursive;
 }
 
 .taco-description-2{
     display: block;
+    margin: 0px;
+    margin-left: 600px;
+    font-size: 30px;
+    font-family: "Lucida Handwriting", cursive;
 }
 
 .taco-ingredients {
